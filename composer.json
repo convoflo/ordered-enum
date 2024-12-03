@@ -1,0 +1,17 @@
+{
+    "name": "convoflo/ordered-enum",
+    "description": "Give your enums an order. Provides utilities such as greaterThan, lessThan, min, max and more.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Convoflo\\OrderedEnum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Demers",
+            "email": "alex.demers@convoflo.com"
+        }
+    ],
+    "require": {}
+}
