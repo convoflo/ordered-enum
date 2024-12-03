@@ -1,6 +1,6 @@
 # PHP Enum
 
-This package gives your enums an order. It provides helper utilities such as `->greaterThan`, `->lessThan`, `->min`, `::max` and more.
+This package gives your enums an order. It provides helper utilities such as `->greaterThan()`, `->lessThan()`, `::min()`, `::max()` and more.
 
 ## Installation
 
