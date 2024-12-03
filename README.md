@@ -1,4 +1,4 @@
-# PHP Enum
+# PHP Ordered Enum
 
 This package gives your enums an order. It provides helper utilities such as `->greaterThan()`, `->lessThan()`, `::min()`, `::max()` and more.
 
